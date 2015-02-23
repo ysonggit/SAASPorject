@@ -1,0 +1,15 @@
+%h2 Details about #{@tacommitment.name}
+ 
+%ul#details
+  %li
+    Commitments:
+    = @tacommitment.commitments
+  %li Assigned to teach course meetings: 
+
+
+
+-# modify last 2 lines of app/views/meetings/show.html.haml to:
+= link_to 'Edit TA Commitments', edit_tacommitment_path(@tacommitment)
+= button_to 'Delete', tacommitment_path(@tacommitment), :method => :delete, :confirm => 'Are you sure?'
+
+= link_to 'Back to TA commitments list', tacommitments_path

@@ -1,0 +1,2594 @@
+===============================================
+Meeting 1: 
+Course: 101
+section: 001
+day: M
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 001
+day: W
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 001
+day: F
+start: 8:30
+end: 9:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 002
+day: M
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 002
+day: W
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 002
+day: F
+start: 9:40
+end: 10:30
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 003
+day: M
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 003
+day: W
+start: 8:30
+end: 9:20
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 003
+day: R
+start: 8:30
+end: 9:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 004
+day: M
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 004
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 004
+day: F
+start: 3:30
+end: 4:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 005
+day: M
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 005
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 005
+day: F
+start: 10:50
+end: 11:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 006
+day: M
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 006
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 006
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 007
+day: M
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 007
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 007
+day: F
+start: 12:00
+end: 12:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 008
+day: M
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 008
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 008
+day: F
+start: 1:10
+end: 2:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 009
+day: M
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 009
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 009
+day: R
+start: 1:15
+end: 2:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 010
+day: M
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 010
+day: W
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 010
+day: F
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 011
+day: M
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 011
+day: W
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 011
+day: R
+start: 4:25
+end: 5:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 012
+day: T
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 012
+day: R
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 012
+day: W
+start: 8:30
+end: 9:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 013
+day: T
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 013
+day: R
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 013
+day: W
+start: 9:40
+end: 10:30
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 014
+day: T
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 014
+day: R
+start: 10:05
+end: 10:55
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 014
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 015
+day: T
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 015
+day: R
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 015
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 016
+day: T
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 016
+day: R
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 016
+day: W
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: 017
+day: T
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 2: 
+Course: 101
+section: 017
+day: R
+start: 2:50
+end: 3:40
+Instructor: TBA
+Meeting 3: 
+Course: 101
+section: 017
+day: W
+start: 3:30
+end: 4:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 101
+section: Z01
+day: 
+start: 
+end: 
+Instructor: 
+Meeting 2: 
+Course: 101
+section: Z01
+day: 
+start: 
+end: 
+Instructor: James Orren McKay 
+===============================================
+Meeting 1: 
+Course: 102
+section: 001
+day: M
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 001
+day: W
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 001
+day: F
+start: 8:30
+end: 9:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 002
+day: M
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 002
+day: W
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 002
+day: F
+start: 9:40
+end: 10:30
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 003
+day: M
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 003
+day: W
+start: 9:40
+end: 10:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 003
+day: R
+start: 10:05
+end: 10:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 004
+day: M
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 004
+day: W
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 004
+day: F
+start: 10:50
+end: 11:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 005
+day: M
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 005
+day: W
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 005
+day: F
+start: 12:00
+end: 12:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 006
+day: M
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 006
+day: W
+start: 12:00
+end: 12:50
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 006
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 007
+day: M
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 007
+day: W
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 007
+day: F
+start: 1:10
+end: 2:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 008
+day: M
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 008
+day: W
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 008
+day: F
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 009
+day: M
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 009
+day: W
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 009
+day: R
+start: 2:50
+end: 3:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 010
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 010
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 010
+day: W
+start: 12:00
+end: 12:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 011
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 011
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 011
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 012
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 012
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 012
+day: W
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 013
+day: T
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 013
+day: R
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 013
+day: T
+start: 5:30
+end: 6:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 014
+day: T
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 014
+day: R
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 014
+day: W
+start: 5:30
+end: 6:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 015
+day: T
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 015
+day: R
+start: 6:40
+end: 7:30
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 015
+day: R
+start: 5:30
+end: 6:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 016
+day: T
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 016
+day: R
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 016
+day: T
+start: 7:00
+end: 7:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 017
+day: T
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 017
+day: R
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 017
+day: W
+start: 7:00
+end: 7:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: 018
+day: T
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 2: 
+Course: 102
+section: 018
+day: R
+start: 5:30
+end: 6:20
+Instructor: TBA
+Meeting 3: 
+Course: 102
+section: 018
+day: R
+start: 7:00
+end: 7:50
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 102
+section: Z01
+day: 
+start: 
+end: 
+Instructor: 
+Meeting 2: 
+Course: 102
+section: Z01
+day: 
+start: 
+end: 
+Instructor: James Orren McKay 
+===============================================
+Meeting 1: 
+Course: 145
+section: 001
+day: M
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 001
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 001
+day: T
+start: 8:00
+end: 9:55
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 001
+day: R
+start: 8:00
+end: 9:55
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 002
+day: M
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 002
+day: W
+start: 10:50
+end: 11:40
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 002
+day: T
+start: 10:05
+end: 12:00
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 002
+day: R
+start: 10:05
+end: 12:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 003
+day: M
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 003
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 003
+day: T
+start: 1:15
+end: 3:10
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 003
+day: R
+start: 1:15
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 004
+day: M
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 004
+day: W
+start: 1:10
+end: 2:00
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 004
+day: T
+start: 8:00
+end: 9:55
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 004
+day: R
+start: 8:00
+end: 9:55
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 005
+day: M
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 005
+day: W
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 005
+day: T
+start: 3:30
+end: 5:25
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 005
+day: R
+start: 3:30
+end: 5:25
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 006
+day: M
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 006
+day: W
+start: 3:30
+end: 4:20
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 006
+day: T
+start: 5:30
+end: 7:25
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 006
+day: R
+start: 5:30
+end: 7:25
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 007
+day: M
+start: 5:50
+end: 6:40
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 007
+day: W
+start: 5:50
+end: 6:40
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 007
+day: T
+start: 10:05
+end: 12:00
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 007
+day: R
+start: 10:05
+end: 12:00
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 145
+section: 008
+day: M
+start: 5:50
+end: 6:40
+Instructor: TBA
+Meeting 2: 
+Course: 145
+section: 008
+day: W
+start: 5:50
+end: 6:40
+Instructor: TBA
+Meeting 3: 
+Course: 145
+section: 008
+day: T
+start: 3:30
+end: 5:25
+Instructor: TBA
+Meeting 4: 
+Course: 145
+section: 008
+day: R
+start: 3:30
+end: 5:25
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 146
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 2: 
+Course: 146
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 3: 
+Course: 146
+section: 001
+day: W
+start: 8:30
+end: 10:25
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 146
+section: 002
+day: T
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 2: 
+Course: 146
+section: 002
+day: R
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 3: 
+Course: 146
+section: 002
+day: W
+start: 10:50
+end: 12:45
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 146
+section: 003
+day: T
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 2: 
+Course: 146
+section: 003
+day: R
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 3: 
+Course: 146
+section: 003
+day: W
+start: 1:10
+end: 3:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 146
+section: 004
+day: T
+start: 6:00
+end: 7:15
+Instructor: TBA
+Meeting 2: 
+Course: 146
+section: 004
+day: R
+start: 6:00
+end: 7:15
+Instructor: TBA
+Meeting 3: 
+Course: 146
+section: 004
+day: W
+start: 3:30
+end: 5:25
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 146
+section: 005
+day: T
+start: 6:00
+end: 7:15
+Instructor: TBA
+Meeting 2: 
+Course: 146
+section: 005
+day: R
+start: 6:00
+end: 7:15
+Instructor: TBA
+Meeting 3: 
+Course: 146
+section: 005
+day: W
+start: 5:50
+end: 7:45
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 190
+section: 001
+day: T
+start: 6:00
+end: 6:50
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 201
+section: 001
+day: M
+start: 12:00
+end: 12:50
+Instructor: Mohamed Alamir Sharaf 
+Meeting 2: 
+Course: 201
+section: 001
+day: W
+start: 12:00
+end: 12:50
+Instructor: Mohamed Alamir Sharaf 
+Meeting 3: 
+Course: 201
+section: 001
+day: F
+start: 12:00
+end: 12:50
+Instructor: Mohamed Alamir Sharaf 
+===============================================
+Meeting 1: 
+Course: 204
+section: 001
+day: T
+start: 4:25
+end: 6:40
+Instructor: Caroline Merriam Eastman 
+Meeting 2: 
+Course: 204
+section: 001
+day: R
+start: 4:25
+end: 6:40
+Instructor: Caroline Merriam Eastman 
+===============================================
+Meeting 1: 
+Course: 205
+section: 001
+day: M
+start: 5:30
+end: 6:45
+Instructor: Christine M.G. Brown 
+Meeting 2: 
+Course: 205
+section: 001
+day: W
+start: 5:30
+end: 6:45
+Instructor: Christine M.G. Brown 
+===============================================
+Meeting 1: 
+Course: 206
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: John R. Rose 
+Meeting 2: 
+Course: 206
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: John R. Rose 
+===============================================
+Meeting 1: 
+Course: 210
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: Caroline Merriam Eastman 
+Meeting 2: 
+Course: 210
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: Caroline Merriam Eastman 
+===============================================
+Meeting 1: 
+Course: 211
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: Chin-Tser Huang 
+Meeting 2: 
+Course: 211
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 211
+section: 002
+day: T
+start: 4:25
+end: 5:40
+Instructor: TBA
+Meeting 2: 
+Course: 211
+section: 002
+day: R
+start: 4:25
+end: 5:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 211
+section: 003
+day: T
+start: 8:30
+end: 9:45
+Instructor: TBA
+Meeting 2: 
+Course: 211
+section: 003
+day: R
+start: 8:30
+end: 9:45
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 212
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: TBA
+Meeting 2: 
+Course: 212
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 212
+section: 002
+day: T
+start: 4:25
+end: 5:40
+Instructor: TBA
+Meeting 2: 
+Course: 212
+section: 002
+day: R
+start: 4:25
+end: 5:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 801
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 801
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 801
+day: T
+start: 1:15
+end: 2:05
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 801
+day: R
+start: 1:15
+end: 2:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 802
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 802
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 802
+day: T
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 802
+day: R
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 803
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 803
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 803
+day: T
+start: 3:25
+end: 4:15
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 803
+day: R
+start: 3:25
+end: 4:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 804
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 804
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 804
+day: T
+start: 4:25
+end: 5:15
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 804
+day: R
+start: 4:25
+end: 5:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 851
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 851
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 851
+day: T
+start: 1:15
+end: 2:05
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 851
+day: R
+start: 1:15
+end: 2:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 852
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 852
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 852
+day: T
+start: 2:20
+end: 3:10
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 852
+day: R
+start: 2:20
+end: 3:10
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 853
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 853
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 853
+day: T
+start: 3:25
+end: 4:15
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 853
+day: R
+start: 3:25
+end: 4:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 215
+section: 854
+day: T
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 2: 
+Course: 215
+section: 854
+day: R
+start: 11:40
+end: 12:30
+Instructor: TBA
+Meeting 3: 
+Course: 215
+section: 854
+day: T
+start: 4:25
+end: 5:15
+Instructor: TBA
+Meeting 4: 
+Course: 215
+section: 854
+day: R
+start: 4:25
+end: 5:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 240
+section: 001
+day: T
+start: 11:40
+end: 12:55
+Instructor: Duncan A. Buell 
+Meeting 2: 
+Course: 240
+section: 001
+day: R
+start: 11:40
+end: 12:55
+Instructor: Duncan A. Buell 
+===============================================
+Meeting 1: 
+Course: 240
+section: 002
+day: T
+start: 6:00
+end: 7:15
+Instructor: TBA
+Meeting 2: 
+Course: 240
+section: 002
+day: R
+start: 6:00
+end: 7:15
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 311
+section: 001
+day: T
+start: 8:30
+end: 9:45
+Instructor: John R. Rose 
+Meeting 2: 
+Course: 311
+section: 001
+day: R
+start: 8:30
+end: 9:45
+Instructor: John R. Rose 
+===============================================
+Meeting 1: 
+Course: 330
+section: 001
+day: T
+start: 2:50
+end: 4:05
+Instructor: Marco Valtorta 
+Meeting 2: 
+Course: 330
+section: 001
+day: R
+start: 2:50
+end: 4:05
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 350
+section: 001
+day: T
+start: 11:40
+end: 12:55
+Instructor: Yan Tong 
+Meeting 2: 
+Course: 350
+section: 001
+day: R
+start: 11:40
+end: 12:55
+Instructor: Yan Tong 
+===============================================
+Meeting 1: 
+Course: 355
+section: 001
+day: M
+start: 3:55
+end: 5:10
+Instructor: Stephen A. Fenner 
+Meeting 2: 
+Course: 355
+section: 001
+day: W
+start: 3:55
+end: 5:10
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 374
+section: 001
+day: T
+start: 2:50
+end: 4:05
+Instructor: TBA
+Meeting 2: 
+Course: 374
+section: 001
+day: R
+start: 2:50
+end: 4:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 390
+section: 001
+day: R
+start: 6:00
+end: 6:50
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 416
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: Srihari Nelakuditi 
+Meeting 2: 
+Course: 416
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: Srihari Nelakuditi 
+===============================================
+Meeting 1: 
+Course: 490
+section: 001
+day: M
+start: 8:30
+end: 9:20
+Instructor: Jose M Vidal 
+Meeting 2: 
+Course: 490
+section: 001
+day: W
+start: 8:30
+end: 9:20
+Instructor: Jose M Vidal 
+Meeting 3: 
+Course: 490
+section: 001
+day: F
+start: 8:30
+end: 9:20
+Instructor: Jose M Vidal 
+===============================================
+Meeting 1: 
+Course: 498
+section: 001
+day: 
+start: 
+end: 
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 500
+section: 001
+day: T
+start: 2:50
+end: 4:05
+Instructor: TBA
+Meeting 2: 
+Course: 500
+section: 001
+day: R
+start: 2:50
+end: 4:05
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 513
+section: 001
+day: M
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+Meeting 2: 
+Course: 513
+section: 001
+day: W
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 513
+section: 006
+day: M
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+Meeting 2: 
+Course: 513
+section: 006
+day: W
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 513
+section: H10
+day: M
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+Meeting 2: 
+Course: 513
+section: H10
+day: W
+start: 10:05
+end: 11:20
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 515
+section: 001
+day: T
+start: 1:15
+end: 2:30
+Instructor: Chin-Tser Huang 
+Meeting 2: 
+Course: 515
+section: 001
+day: R
+start: 1:15
+end: 2:30
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 515
+section: H10
+day: T
+start: 1:15
+end: 2:30
+Instructor: Chin-Tser Huang 
+Meeting 2: 
+Course: 515
+section: H10
+day: R
+start: 1:15
+end: 2:30
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 520
+section: 001
+day: M
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 520
+section: 001
+day: W
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 520
+section: 006
+day: M
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 520
+section: 006
+day: W
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 520
+section: H10
+day: M
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 520
+section: H10
+day: W
+start: 5:30
+end: 6:45
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 522
+section: 001
+day: M
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 522
+section: 001
+day: W
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 522
+section: 006
+day: M
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 522
+section: 006
+day: W
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 522
+section: H10
+day: M
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+Meeting 2: 
+Course: 522
+section: H10
+day: W
+start: 2:50
+end: 4:05
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 552
+section: 001
+day: F
+start: 8:30
+end: 11:00
+Instructor: Jijun Tang 
+===============================================
+Meeting 1: 
+Course: 552
+section: H10
+day: F
+start: 8:30
+end: 11:00
+Instructor: Jijun Tang 
+===============================================
+Meeting 1: 
+Course: 590
+section: 001
+day: T
+start: 4:25
+end: 5:40
+Instructor: TBA
+Meeting 2: 
+Course: 590
+section: 001
+day: R
+start: 4:25
+end: 5:40
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 590
+section: 002
+day: T
+start: 2:50
+end: 4:05
+Instructor: Jenay Michelle Beer 
+Meeting 2: 
+Course: 590
+section: 002
+day: R
+start: 2:50
+end: 4:05
+Instructor: Jenay Michelle Beer 
+===============================================
+Meeting 1: 
+Course: 611
+section: 001
+day: M
+start: 3:55
+end: 5:10
+Instructor: Jason Daniel Bakos 
+Meeting 2: 
+Course: 611
+section: 001
+day: W
+start: 3:55
+end: 5:10
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 719
+section: 001
+day: M
+start: 2:20
+end: 3:35
+Instructor: Wenyuan Xu 
+Meeting 2: 
+Course: 719
+section: 001
+day: W
+start: 2:20
+end: 3:35
+Instructor: Wenyuan Xu 
+===============================================
+Meeting 1: 
+Course: 750
+section: 001
+day: M
+start: 1:15
+end: 2:30
+Instructor: Stephen A. Fenner 
+Meeting 2: 
+Course: 750
+section: 001
+day: W
+start: 1:15
+end: 2:30
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 750
+section: 006
+day: M
+start: 1:15
+end: 2:30
+Instructor: Stephen A. Fenner 
+Meeting 2: 
+Course: 750
+section: 006
+day: W
+start: 1:15
+end: 2:30
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 771
+section: 001
+day: M
+start: 8:30
+end: 9:45
+Instructor: Manton M. Matthews 
+Meeting 2: 
+Course: 771
+section: 001
+day: W
+start: 8:30
+end: 9:45
+Instructor: Manton M. Matthews 
+===============================================
+Meeting 1: 
+Course: 771
+section: 006
+day: M
+start: 8:30
+end: 9:45
+Instructor: Manton M. Matthews 
+Meeting 2: 
+Course: 771
+section: 006
+day: W
+start: 8:30
+end: 9:45
+Instructor: Manton M. Matthews 
+===============================================
+Meeting 1: 
+Course: 774
+section: 001
+day: T
+start: 1:15
+end: 2:30
+Instructor: Jason Matthew Okane 
+Meeting 2: 
+Course: 774
+section: 001
+day: R
+start: 1:15
+end: 2:30
+Instructor: Jason Matthew Okane 
+===============================================
+Meeting 1: 
+Course: 797
+section: 001
+day: 
+start: 
+end: 
+Instructor: TBA
+===============================================
+Meeting 1: 
+Course: 798
+section: 001
+day: 
+start: 
+end: 
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 798
+section: 002
+day: 
+start: 
+end: 
+Instructor: Duncan A. Buell 
+===============================================
+Meeting 1: 
+Course: 798
+section: 003
+day: 
+start: 
+end: 
+Instructor: Caroline Merriam Eastman 
+===============================================
+Meeting 1: 
+Course: 798
+section: 004
+day: 
+start: 
+end: 
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 798
+section: 005
+day: 
+start: 
+end: 
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 798
+section: 006
+day: 
+start: 
+end: 
+Instructor: Jianjun Hu 
+===============================================
+Meeting 1: 
+Course: 798
+section: 007
+day: 
+start: 
+end: 
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 798
+section: 008
+day: 
+start: 
+end: 
+Instructor: Michael N. Huhns 
+===============================================
+Meeting 1: 
+Course: 798
+section: 009
+day: 
+start: 
+end: 
+Instructor: Manton M. Matthews 
+===============================================
+Meeting 1: 
+Course: 798
+section: 010
+day: 
+start: 
+end: 
+Instructor: Srihari Nelakuditi 
+===============================================
+Meeting 1: 
+Course: 798
+section: 011
+day: 
+start: 
+end: 
+Instructor: Jason Matthew Okane 
+===============================================
+Meeting 1: 
+Course: 798
+section: 012
+day: 
+start: 
+end: 
+Instructor: John R. Rose 
+===============================================
+Meeting 1: 
+Course: 798
+section: 013
+day: 
+start: 
+end: 
+Instructor: Jijun Tang 
+===============================================
+Meeting 1: 
+Course: 798
+section: 014
+day: 
+start: 
+end: 
+Instructor: Gabriel Alin Terejanu 
+===============================================
+Meeting 1: 
+Course: 798
+section: 015
+day: 
+start: 
+end: 
+Instructor: Matt Eric Thatcher 
+===============================================
+Meeting 1: 
+Course: 798
+section: 016
+day: 
+start: 
+end: 
+Instructor: Yan Tong 
+===============================================
+Meeting 1: 
+Course: 798
+section: 017
+day: 
+start: 
+end: 
+Instructor: Homayoun Valafar 
+===============================================
+Meeting 1: 
+Course: 798
+section: 018
+day: 
+start: 
+end: 
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 798
+section: 019
+day: 
+start: 
+end: 
+Instructor: Jose M Vidal 
+===============================================
+Meeting 1: 
+Course: 798
+section: 020
+day: 
+start: 
+end: 
+Instructor: Song Wang 
+===============================================
+Meeting 1: 
+Course: 798
+section: 021
+day: 
+start: 
+end: 
+Instructor: Wenyuan Xu 
+===============================================
+Meeting 1: 
+Course: 798
+section: 022
+day: 
+start: 
+end: 
+Instructor: Jenay Michelle Beer 
+===============================================
+Meeting 1: 
+Course: 799
+section: 001
+day: 
+start: 
+end: 
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 799
+section: 002
+day: 
+start: 
+end: 
+Instructor: Duncan A. Buell 
+===============================================
+Meeting 1: 
+Course: 799
+section: 003
+day: 
+start: 
+end: 
+Instructor: Caroline Merriam Eastman 
+===============================================
+Meeting 1: 
+Course: 799
+section: 004
+day: 
+start: 
+end: 
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 799
+section: 005
+day: 
+start: 
+end: 
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 799
+section: 006
+day: 
+start: 
+end: 
+Instructor: Jianjun Hu 
+===============================================
+Meeting 1: 
+Course: 799
+section: 007
+day: 
+start: 
+end: 
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 799
+section: 008
+day: 
+start: 
+end: 
+Instructor: Michael N. Huhns 
+===============================================
+Meeting 1: 
+Course: 799
+section: 009
+day: 
+start: 
+end: 
+Instructor: Manton M. Matthews 
+===============================================
+Meeting 1: 
+Course: 799
+section: 010
+day: 
+start: 
+end: 
+Instructor: Srihari Nelakuditi 
+===============================================
+Meeting 1: 
+Course: 799
+section: 011
+day: 
+start: 
+end: 
+Instructor: Jason Matthew Okane 
+===============================================
+Meeting 1: 
+Course: 799
+section: 012
+day: 
+start: 
+end: 
+Instructor: John R. Rose 
+===============================================
+Meeting 1: 
+Course: 799
+section: 013
+day: 
+start: 
+end: 
+Instructor: Jijun Tang 
+===============================================
+Meeting 1: 
+Course: 799
+section: 014
+day: 
+start: 
+end: 
+Instructor: Gabriel Alin Terejanu 
+===============================================
+Meeting 1: 
+Course: 799
+section: 015
+day: 
+start: 
+end: 
+Instructor: Matt Eric Thatcher 
+===============================================
+Meeting 1: 
+Course: 799
+section: 016
+day: 
+start: 
+end: 
+Instructor: Yan Tong 
+===============================================
+Meeting 1: 
+Course: 799
+section: 017
+day: 
+start: 
+end: 
+Instructor: Homayoun Valafar 
+===============================================
+Meeting 1: 
+Course: 799
+section: 018
+day: 
+start: 
+end: 
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 799
+section: 019
+day: 
+start: 
+end: 
+Instructor: Jose M Vidal 
+===============================================
+Meeting 1: 
+Course: 799
+section: 020
+day: 
+start: 
+end: 
+Instructor: Song Wang 
+===============================================
+Meeting 1: 
+Course: 799
+section: 021
+day: 
+start: 
+end: 
+Instructor: Wenyuan Xu 
+===============================================
+Meeting 1: 
+Course: 799
+section: 022
+day: 
+start: 
+end: 
+Instructor: Jenay Michelle Beer 
+===============================================
+Meeting 1: 
+Course: 822
+section: 001
+day: T
+start: 11:40
+end: 12:55
+Instructor: Jianjun Hu 
+Meeting 2: 
+Course: 822
+section: 001
+day: R
+start: 11:40
+end: 12:55
+Instructor: Jianjun Hu 
+===============================================
+Meeting 1: 
+Course: 883
+section: 001
+day: T
+start: 10:05
+end: 11:20
+Instructor: Gabriel Alin Terejanu 
+Meeting 2: 
+Course: 883
+section: 001
+day: R
+start: 10:05
+end: 11:20
+Instructor: Gabriel Alin Terejanu 
+===============================================
+Meeting 1: 
+Course: 899
+section: 001
+day: 
+start: 
+end: 
+Instructor: Jason Daniel Bakos 
+===============================================
+Meeting 1: 
+Course: 899
+section: 002
+day: 
+start: 
+end: 
+Instructor: Duncan A. Buell 
+===============================================
+Meeting 1: 
+Course: 899
+section: 003
+day: 
+start: 
+end: 
+Instructor: Caroline Merriam Eastman 
+===============================================
+Meeting 1: 
+Course: 899
+section: 004
+day: 
+start: 
+end: 
+Instructor: Csilla Farkas 
+===============================================
+Meeting 1: 
+Course: 899
+section: 005
+day: 
+start: 
+end: 
+Instructor: Stephen A. Fenner 
+===============================================
+Meeting 1: 
+Course: 899
+section: 006
+day: 
+start: 
+end: 
+Instructor: Jianjun Hu 
+===============================================
+Meeting 1: 
+Course: 899
+section: 007
+day: 
+start: 
+end: 
+Instructor: Chin-Tser Huang 
+===============================================
+Meeting 1: 
+Course: 899
+section: 008
+day: 
+start: 
+end: 
+Instructor: Michael N. Huhns 
+===============================================
+Meeting 1: 
+Course: 899
+section: 009
+day: 
+start: 
+end: 
+Instructor: Manton M. Matthews 
+===============================================
+Meeting 1: 
+Course: 899
+section: 010
+day: 
+start: 
+end: 
+Instructor: Srihari Nelakuditi 
+===============================================
+Meeting 1: 
+Course: 899
+section: 011
+day: 
+start: 
+end: 
+Instructor: Jason Matthew Okane 
+===============================================
+Meeting 1: 
+Course: 899
+section: 012
+day: 
+start: 
+end: 
+Instructor: John R. Rose 
+===============================================
+Meeting 1: 
+Course: 899
+section: 013
+day: 
+start: 
+end: 
+Instructor: Jijun Tang 
+===============================================
+Meeting 1: 
+Course: 899
+section: 014
+day: 
+start: 
+end: 
+Instructor: Gabriel Alin Terejanu 
+===============================================
+Meeting 1: 
+Course: 899
+section: 015
+day: 
+start: 
+end: 
+Instructor: Matt Eric Thatcher 
+===============================================
+Meeting 1: 
+Course: 899
+section: 016
+day: 
+start: 
+end: 
+Instructor: Yan Tong 
+===============================================
+Meeting 1: 
+Course: 899
+section: 017
+day: 
+start: 
+end: 
+Instructor: Homayoun Valafar 
+===============================================
+Meeting 1: 
+Course: 899
+section: 018
+day: 
+start: 
+end: 
+Instructor: Marco Valtorta 
+===============================================
+Meeting 1: 
+Course: 899
+section: 019
+day: 
+start: 
+end: 
+Instructor: Jose M Vidal 
+===============================================
+Meeting 1: 
+Course: 899
+section: 020
+day: 
+start: 
+end: 
+Instructor: Song Wang 
+===============================================
+Meeting 1: 
+Course: 899
+section: 021
+day: 
+start: 
+end: 
+Instructor: Wenyuan Xu 
+===============================================
+Meeting 1: 
+Course: 899
+section: 022
+day: 
+start: 
+end: 
+Instructor: Jenay Michelle Beer 

@@ -1,0 +1,16 @@
+%h2 Details about #{@meeting.course}
+ 
+%ul#details
+  %li
+    Instructor:
+    = @meeting.instructor
+  %li
+    Teaching Assistant:
+    
+   
+    
+-# modify last 2 lines of app/views/meetings/show.html.haml to:
+= link_to 'Edit info', edit_meeting_path(@meeting)
+= button_to 'Delete', meeting_path(@meeting), :method => :delete, :confirm => 'Are you sure?'
+
+= link_to 'Back to meeting list', meetings_path

@@ -1,0 +1,23 @@
+%h2 Create New Meeting
+ 
+= form_tag '/meetings', :method => :post do
+  = render :partial => 'meeting_form'
+  = label :meeting, :course, 'Course'
+  = text_field :meeting, :course
+
+  = label :meeting, :section, 'Section'
+  = text_field :meeting, :section
+
+  = label :meeting, :start, 'Start Time'
+  = time_select :meeting, :start
+
+  = label :meeting, :end, 'End Time'
+  = time_select :meeting, :end
+ 
+  = label :meeting, :day, 'Day'
+  = select :meeting, :day, ['M', 'T', 'W', 'R', 'F']
+
+  = label :meeting, :instructor, 'Instructor'
+  = text_field :meeting, :instructor
+
+  = submit_tag 'Save Changes'

@@ -1,0 +1,48 @@
+%h2 Edit Existing Meeting
+ 
+= form_tag meeting_path(@meeting), :method => :put do
+  = render :partial => 'meeting_form'
+  = label :meeting, :course, 'Course'
+  = text_field :meeting, :course
+
+  = label :meeting, :section, 'Section'
+  = text_field :meeting, :section
+
+  = label :meeting, :start, 'Start Time'
+  = time_select :meeting, :start
+
+  = label :meeting, :end, 'End Time'
+  = time_select :meeting, :end
+ 
+  = label :meeting, :day, 'Day'
+  = select :meeting, :day, ['M', 'T', 'W', 'R', 'F']
+
+  = label :meeting, :instructor, 'Instructor'
+  = text_field :meeting, :instructor
+
+  = submit_tag 'Update Meeting Info'
+
+= link_to 'Back to All Meetings List', meetings_path
+
+%h2 TAs available to be assigned to this meeting
+%table#meetings
+  %thead
+    %tr
+      %th Name
+      %th Commitments (Course Enrolled)
+      %th Time Not Available 
+      %th Operation
+  %tbody
+    - @meeting.available_ta_list.each do |ta|
+      %tr
+        %td= ta.name
+        %td
+          - ta.courses_list.each do |c|
+            = c
+        %td
+          - ta.not_available_times.each do |t|
+            = t[0].strftime("%H:%M")
+            = " -- "
+            = t[1].strftime("%H:%M")
+            = t[2]
+        %td= "Assign TA"

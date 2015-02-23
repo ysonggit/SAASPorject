@@ -1,0 +1,56 @@
+%h2 Edit Existing TA Commitments
+ 
+= form_tag tacommitment_path(@tacommitment), :method => :put do
+  = render :partial => 'tacommitment_form'
+  = label :tacommitment, :name, 'Name'
+  = text_field :tacommitment, :name
+
+  = label :tacommitment, :commitments, 'Commitments'
+  = text_field :tacommitment, :commitments
+
+  = submit_tag 'Update TA Commitment'
+
+= link_to 'Back to All TA Commitments List', tacommitments_path
+
+%table#meetings
+  %thead
+    %tr
+      %th TA enrolled in 
+      %th TA is NOT available at time
+  %tbody
+    %tr
+      %td
+        - @tacommitment.courses_list.each do |c|
+          = "CSCE #{c}"
+      %td
+        - @tacommitment.not_available_times.each do |na|
+          = na[0].strftime("%H:%M")
+          = " -- "
+          = na[1].strftime("%H:%M")
+          = na[2]
+              
+%h2 Course Meetings Available to Assign
+%table#meetings
+  %thead
+    %tr
+      %th Course Number
+      %th Section Number
+      %th Start Time
+      %th End Time
+      %th Day
+      %th Instructor
+      %th Operation
+  %tbody
+    - @tacommitment.available_meetings.each do |m|
+      %tr
+        %td= m.course
+        %td= m.section
+        %td= m.start.strftime("%H:%M")
+        %td= m.end.strftime("%H:%M")
+        %td= m.day
+        %td= m.instructor
+        %td
+          
+
+
+          

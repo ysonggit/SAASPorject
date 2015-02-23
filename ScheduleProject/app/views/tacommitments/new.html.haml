@@ -1,0 +1,11 @@
+%h2 Create New TA Commitment
+ 
+= form_tag '/tacommitments', :method => :post do
+  = render :partial => 'tacommitment_form'
+  = label :tacommitment, :name, 'Name'
+  = text_field :tacommitment, :name
+
+  = label :tacommitment, :commitments, 'Commitments'
+  = text_field :tacommitment, :commitments
+
+  = submit_tag 'Save Changes'

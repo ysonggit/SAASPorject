@@ -1,0 +1,32 @@
+%h1 All Meetings
+= link_to 'Go to All TA Commitments List', tacommitments_path
+%table#meetings
+  %thead
+    %tr
+      %th Course Number
+      %th Section Number
+      %th Start Time
+      %th End Time
+      %th Day
+      %th Instructor
+      %th More Info
+    %tbody
+      - @meetings.each do |m|
+        %tr
+          %td= m.course
+          %td= m.section
+          - if m.start.nil?
+            %td= " "
+          - else
+            %td= m.start.strftime("%H:%M")
+          - if m.end.nil?
+            %td= " "
+          - else
+            %td= m.end.strftime("%H:%M")
+          %td= m.day
+          %td= m.instructor
+          %td= link_to "More about #{m.course}", meeting_path(m)
+
+= link_to 'Add new meeting', new_meeting_path
+
+          

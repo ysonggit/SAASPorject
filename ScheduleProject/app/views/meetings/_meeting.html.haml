@@ -1,0 +1,9 @@
+-# A single row of the All Movies table
+%tr
+  %td= meeting.course
+  %td= meeting.section
+  %td= meeting.start
+  %td= meeting.end
+  %td= meeting.day
+  %td= meeting.instructor
+  %td= link_to "More about #{meeting.course}", meeting_path(meeting)

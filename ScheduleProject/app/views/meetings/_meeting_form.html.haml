@@ -1,0 +1,6 @@
+- unless @meeting.errors.empty?
+  #warning
+    Errors prevented this meeting from being #{controller.action_name}d:
+    %ul
+      - @meeting.errors.full_messages.each do |error|
+        %li= error

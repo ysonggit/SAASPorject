@@ -1,0 +1,6 @@
+- unless @tacommitment.errors.empty?
+  #warning
+    Errors prevented this meeting from being #{controller.action_name}d:
+    %ul
+      - @tacommitment.errors.full_messages.each do |error|
+        %li= error
